@@ -1,0 +1,594 @@
+{
+    "courses": [
+        {
+            "course_name": "CSCE 1015 Section(s) 002,004,006 - Computing Tools and Techniques Laboratory (Fall 2024 1)",
+            "course_id": 90820000000110526,
+            "assignments": [
+                {
+                    "name": "Student Academic Integrity Policy Quiz",
+                    "due_date": "2024-08-26T04:59:59Z"
+                },
+                {
+                    "name": "Syllabus quiz",
+                    "due_date": "2024-08-26T04:59:59Z"
+                },
+                {
+                    "name": "Module 01: Build a PC assignment",
+                    "due_date": "2024-09-02T04:59:59Z"
+                },
+                {
+                    "name": "Module 02: Virtualization assignment",
+                    "due_date": "2024-09-09T04:59:59Z"
+                },
+                {
+                    "name": "Module 03: Network navigation assignment",
+                    "due_date": "2024-09-16T04:59:59Z"
+                },
+                {
+                    "name": "Module 04: Shell assignment",
+                    "due_date": "2024-09-23T04:59:59Z"
+                },
+                {
+                    "name": "Module 05: Script assignment",
+                    "due_date": "2024-09-30T04:59:59Z"
+                },
+                {
+                    "name": "Module 06: Linux Survival assignment",
+                    "due_date": "2024-10-07T04:59:59Z"
+                },
+                {
+                    "name": "Module 07: HTTP fileserver assignment",
+                    "due_date": "2024-10-14T04:59:59Z"
+                },
+                {
+                    "name": "Module 08: SSH public key assignment",
+                    "due_date": "2024-10-28T04:59:59Z"
+                },
+                {
+                    "name": "Module 09: VCS assignment ",
+                    "due_date": "2024-11-04T05:59:59Z"
+                }
+            ]
+        },
+        {
+            "course_name": "CSCE 2610 Section 001 - Assembly Language and Computer Organization (Fall 2024 1)",
+            "course_id": 90820000000110617,
+            "assignments": [
+                {
+                    "name": "Class Activity #1",
+                    "due_date": null
+                },
+                {
+                    "name": "Quiz #1",
+                    "due_date": null
+                },
+                {
+                    "name": "Quiz #2",
+                    "due_date": null
+                },
+                {
+                    "name": "Homework #1",
+                    "due_date": "2024-09-05T04:59:59Z"
+                },
+                {
+                    "name": "Homework #2",
+                    "due_date": "2024-09-18T04:59:59Z"
+                },
+                {
+                    "name": "Homework #3",
+                    "due_date": "2024-10-03T04:59:59Z"
+                },
+                {
+                    "name": "Homework #4",
+                    "due_date": "2024-10-30T04:59:59Z"
+                },
+                {
+                    "name": "Programming Assignment #1",
+                    "due_date": "2024-09-13T04:59:59Z"
+                },
+                {
+                    "name": "Programming Assignment #2",
+                    "due_date": "2024-09-27T04:59:59Z"
+                },
+                {
+                    "name": "Programming Assignment #3",
+                    "due_date": "2024-10-26T04:59:59Z"
+                },
+                {
+                    "name": "Programming Assignment #4",
+                    "due_date": "2024-11-08T05:59:59Z"
+                }
+            ]
+        },
+        {
+            "course_name": "CSCE 3220 Section 401 - Human Computer Interfaces (Fall 2024 1)",
+            "course_id": 90820000000110631,
+            "assignments": [
+                {
+                    "name": "Codecademy Learn HTML - Submit Completion Screenshot Here",
+                    "due_date": "2024-08-26T04:59:00Z"
+                },
+                {
+                    "name": "Codecademy Learn CSS - Submit Completion Screenshot Here",
+                    "due_date": "2024-09-02T04:59:00Z"
+                },
+                {
+                    "name": "Upload Your Photoshopped Image Here",
+                    "due_date": "2024-09-23T04:59:00Z"
+                },
+                {
+                    "name": "Bad Interface Discussion Assignment",
+                    "due_date": "2024-10-28T04:59:00Z"
+                },
+                {
+                    "name": "Accessibility HW Upload",
+                    "due_date": "2024-11-04T05:59:00Z"
+                },
+                {
+                    "name": "Google Analytics Assignment",
+                    "due_date": "2024-12-02T05:59:00Z"
+                },
+                {
+                    "name": "Project 1",
+                    "due_date": "2024-09-21T04:59:00Z"
+                },
+                {
+                    "name": "Project-2",
+                    "due_date": "2024-10-21T04:59:59Z"
+                },
+                {
+                    "name": "Project-3",
+                    "due_date": "2024-12-09T05:59:00Z"
+                },
+                {
+                    "name": "LinkedIn Interaction Design Course Completion - submit completion screenshot here",
+                    "due_date": "2024-09-09T04:59:00Z"
+                },
+                {
+                    "name": "User Interfaces and User Experience Quiz",
+                    "due_date": "2024-08-26T04:59:00Z"
+                },
+                {
+                    "name": "Codecademy Learn CSS Quiz",
+                    "due_date": "2024-09-02T04:59:00Z"
+                },
+                {
+                    "name": "Interaction Design and Responsive Website Article Quiz",
+                    "due_date": "2024-09-09T04:59:00Z"
+                },
+                {
+                    "name": "LinkedIn Photoshop Basics Video Quiz",
+                    "due_date": "2024-09-16T04:59:00Z"
+                },
+                {
+                    "name": "Accessibility Quiz",
+                    "due_date": "2024-11-04T05:59:00Z"
+                },
+                {
+                    "name": "Usability Testing Quiz",
+                    "due_date": "2024-11-11T05:59:00Z"
+                },
+                {
+                    "name": "Quiz - LinkedIn Video Android: Design a User Interface",
+                    "due_date": "2024-11-18T05:59:00Z"
+                },
+                {
+                    "name": "Quiz - LinkedIn Google Analytics Video",
+                    "due_date": "2024-12-02T05:59:00Z"
+                },
+                {
+                    "name": "Week 6 SvelteKit and Tailwind CSS Essential Training Quiz",
+                    "due_date": "2024-09-30T04:59:00Z"
+                },
+                {
+                    "name": "Material Design Quiz",
+                    "due_date": "2024-11-25T05:59:00Z"
+                },
+                {
+                    "name": "Figma Essential Quiz",
+                    "due_date": "2024-10-07T04:59:00Z"
+                },
+                {
+                    "name": "Midterm",
+                    "due_date": "2024-10-11T04:59:00Z"
+                },
+                {
+                    "name": "Final Exam",
+                    "due_date": "2024-12-10T16:00:00Z"
+                },
+                {
+                    "name": "Midterm : 10 October - Open-Book MCQ Exam (Online)",
+                    "due_date": "2024-10-11T04:59:59Z"
+                }
+            ]
+        },
+        {
+            "course_name": "CSCE 3444 Section 001 - Software Engineering (Fall 2024 1)",
+            "course_id": 90820000000110637,
+            "assignments": [
+                {
+                    "name": "Project Pitch",
+                    "due_date": "2024-09-16T04:59:59Z"
+                },
+                {
+                    "name": "Analysis Class Activity",
+                    "due_date": "2024-10-29T04:59:59Z"
+                },
+                {
+                    "name": "Sprint 1 Review",
+                    "due_date": "2024-10-12T04:59:59Z"
+                },
+                {
+                    "name": "Sprint 2 Review",
+                    "due_date": "2024-11-03T04:59:59Z"
+                },
+                {
+                    "name": "Architecture Component Diagram",
+                    "due_date": null
+                },
+                {
+                    "name": "Form Groups",
+                    "due_date": "2024-09-02T04:59:59Z"
+                },
+                {
+                    "name": "Door State Machine",
+                    "due_date": "2024-09-27T04:59:59Z"
+                },
+                {
+                    "name": "User Stories",
+                    "due_date": "2024-10-06T04:59:59Z"
+                },
+                {
+                    "name": "Sprint 1 Reflection",
+                    "due_date": "2024-10-13T04:59:59Z"
+                },
+                {
+                    "name": "Sprint 2 Reflection",
+                    "due_date": "2024-11-03T04:59:59Z"
+                },
+                {
+                    "name": "Syllabus Reconnaissance",
+                    "due_date": "2024-08-21T04:59:59Z"
+                },
+                {
+                    "name": "Activity Class Activity",
+                    "due_date": "2024-09-25T04:59:59Z"
+                },
+                {
+                    "name": "Class 1 - Poll",
+                    "due_date": null
+                },
+                {
+                    "name": "Class 3 - Poll",
+                    "due_date": null
+                },
+                {
+                    "name": "Class 4 - Poll",
+                    "due_date": null
+                },
+                {
+                    "name": "Class 5 - Poll",
+                    "due_date": null
+                },
+                {
+                    "name": "Class 6 - Poll",
+                    "due_date": null
+                },
+                {
+                    "name": "Class 7 - Poll",
+                    "due_date": null
+                },
+                {
+                    "name": "Class 8 - Poll",
+                    "due_date": null
+                },
+                {
+                    "name": "Class 9 - Poll",
+                    "due_date": null
+                },
+                {
+                    "name": "Class 10 - Poll",
+                    "due_date": null
+                },
+                {
+                    "name": "Class 11 - Poll",
+                    "due_date": null
+                },
+                {
+                    "name": "Detailing a Component",
+                    "due_date": "2024-11-05T05:59:59Z"
+                }
+            ]
+        },
+        {
+            "course_name": "CSCE 3550 Section(s) 001,003 - Foundations of Cybersecurity (Fall 2024 1)",
+            "course_id": 90820000000110638,
+            "assignments": [
+                {
+                    "name": "Student Academic Integrity Policy Quiz",
+                    "due_date": "2024-08-26T04:59:59Z"
+                },
+                {
+                    "name": "Syllabus quiz",
+                    "due_date": "2024-08-26T04:59:59Z"
+                },
+                {
+                    "name": "Module 01 Quiz",
+                    "due_date": "2024-09-23T04:59:59Z"
+                },
+                {
+                    "name": "Module 02 Quiz",
+                    "due_date": "2024-09-23T04:59:59Z"
+                },
+                {
+                    "name": "Module 03 Quiz",
+                    "due_date": "2024-09-23T04:59:59Z"
+                },
+                {
+                    "name": "Module 05 Quiz",
+                    "due_date": "2024-10-28T04:59:59Z"
+                },
+                {
+                    "name": "Module 07 Quiz",
+                    "due_date": "2024-10-28T04:59:59Z"
+                },
+                {
+                    "name": "Module 08 Quiz",
+                    "due_date": "2024-10-28T04:59:59Z"
+                },
+                {
+                    "name": "Module 10 Quiz",
+                    "due_date": "2024-12-09T05:59:59Z"
+                },
+                {
+                    "name": "Module 11 Quiz",
+                    "due_date": "2024-12-09T05:59:59Z"
+                },
+                {
+                    "name": "Module 12 Quiz",
+                    "due_date": "2024-12-09T05:59:59Z"
+                },
+                {
+                    "name": "Module 01 HW: Cybersecurity Overview",
+                    "due_date": "2024-09-23T04:59:59Z"
+                },
+                {
+                    "name": "Module 02 HW: Authentication & Passwords",
+                    "due_date": "2024-09-23T04:59:59Z"
+                },
+                {
+                    "name": "Module 03 HW: Programs and Programming",
+                    "due_date": "2024-10-28T04:59:59Z"
+                },
+                {
+                    "name": "Module 06 HW: Networks",
+                    "due_date": "2024-10-28T04:59:59Z"
+                },
+                {
+                    "name": "Module 09 HW: Privacy",
+                    "due_date": "2024-10-28T04:59:59Z"
+                },
+                {
+                    "name": "Module 10 HW: Management and Incidents",
+                    "due_date": "2024-12-09T05:59:59Z"
+                },
+                {
+                    "name": "Module 12 HW: Details of Cryptography",
+                    "due_date": "2024-12-09T05:59:59Z"
+                },
+                {
+                    "name": "Reflections on the PBS Documentary on Edward Snowden",
+                    "due_date": "2024-09-23T04:59:00Z"
+                },
+                {
+                    "name": "Over The Wire: Bandit",
+                    "due_date": "2024-09-23T04:59:00Z"
+                },
+                {
+                    "name": "Lab 0: Installing Linux",
+                    "due_date": "2024-10-28T04:59:59Z"
+                },
+                {
+                    "name": "Lab 1: Networks",
+                    "due_date": "2024-10-28T04:59:59Z"
+                },
+                {
+                    "name": "Lab 2: Privacy with Wireshark and TLS",
+                    "due_date": "2024-10-28T04:59:59Z"
+                },
+                {
+                    "name": "Lab 3: Password auditing",
+                    "due_date": "2024-12-09T05:59:59Z"
+                },
+                {
+                    "name": "Project 1: JWKS server",
+                    "due_date": "2024-09-23T04:59:59Z"
+                },
+                {
+                    "name": "Project 2: Extending the JWKS server",
+                    "due_date": "2024-10-28T04:59:59Z"
+                },
+                {
+                    "name": "Project 3: Bulking up our JWKS server ",
+                    "due_date": "2024-12-09T05:59:59Z"
+                },
+                {
+                    "name": "Exam 1 (Modules 01-04)",
+                    "due_date": "2024-09-23T04:59:59Z"
+                },
+                {
+                    "name": "Exam 2 (Modules 05-09)",
+                    "due_date": "2024-10-28T04:59:59Z"
+                },
+                {
+                    "name": "Exam 3 (Modules 10-13)",
+                    "due_date": "2024-12-09T05:59:59Z"
+                }
+            ]
+        },
+        {
+            "course_name": "CSCE 3600 Section 003 - Principles of Systems Programming (Fall 2024 1)",
+            "course_id": 90820000000110652,
+            "assignments": [
+                {
+                    "name": "Roll Call Attendance",
+                    "due_date": null
+                },
+                {
+                    "name": "Mid Term 1 Practice Exam",
+                    "due_date": "2024-10-11T04:59:59Z"
+                },
+                {
+                    "name": "e-Portfolio & Professional Online Presence",
+                    "due_date": null
+                },
+                {
+                    "name": "Student Success",
+                    "due_date": "2024-10-12T04:59:59Z"
+                },
+                {
+                    "name": "Recitation 1",
+                    "due_date": "2024-09-11T04:59:00Z"
+                },
+                {
+                    "name": "Recitation 2",
+                    "due_date": "2024-09-18T04:59:00Z"
+                },
+                {
+                    "name": "Recitation 3",
+                    "due_date": "2024-09-26T04:59:59Z"
+                },
+                {
+                    "name": "Recitation 4",
+                    "due_date": "2024-10-04T04:59:59Z"
+                },
+                {
+                    "name": "Recitation 5",
+                    "due_date": "2024-10-09T04:59:00Z"
+                },
+                {
+                    "name": "Recitation 6",
+                    "due_date": "2024-10-23T04:59:00Z"
+                },
+                {
+                    "name": "Recitation 7",
+                    "due_date": "2024-10-30T04:59:00Z"
+                },
+                {
+                    "name": "Recitation 8",
+                    "due_date": "2024-11-13T05:59:00Z"
+                },
+                {
+                    "name": "Recitation 9",
+                    "due_date": "2024-11-27T05:59:00Z"
+                },
+                {
+                    "name": "Recitation 10",
+                    "due_date": "2024-12-04T05:59:00Z"
+                },
+                {
+                    "name": "Minor 1",
+                    "due_date": "2024-10-02T04:59:00Z"
+                },
+                {
+                    "name": "Minor 2",
+                    "due_date": "2024-10-23T04:59:00Z"
+                },
+                {
+                    "name": "Minor 3",
+                    "due_date": "2024-11-06T05:59:00Z"
+                },
+                {
+                    "name": "Minor 4",
+                    "due_date": "2024-12-04T05:59:00Z"
+                },
+                {
+                    "name": "Major 1",
+                    "due_date": "2024-10-30T04:59:00Z"
+                },
+                {
+                    "name": "Major1 Team Evaluation",
+                    "due_date": "2024-11-01T04:59:59Z"
+                },
+                {
+                    "name": "Major 2",
+                    "due_date": "2024-12-04T05:59:59Z"
+                },
+                {
+                    "name": "CSCE3600-Exam-I- Requires Respondus LockDown Browser",
+                    "due_date": "2024-10-11T04:59:00Z"
+                },
+                {
+                    "name": "CSCE3600 - Exam II- Requires Respondus LockDown Browser",
+                    "due_date": "2024-11-06T02:00:00Z"
+                },
+                {
+                    "name": "CSCE3600  - Final Exam- Requires Respondus LockDown Browser",
+                    "due_date": "2024-12-20T05:59:00Z"
+                }
+            ]
+        },
+        {
+            "course_name": "CSCE 3600 Section 213 - Principles of Systems Programming (Fall 2024 1)",
+            "course_id": 90820000000110661,
+            "assignments": [
+                {
+                    "name": "Roll Call Attendance",
+                    "due_date": null
+                }
+            ]
+        },
+        {
+            "course_name": "Summer Career Readiness - First Year Seminar 2023",
+            "course_id": 90820000000089178,
+            "assignments": [
+                {
+                    "name": "Career Readiness Pre-Test",
+                    "due_date": null
+                },
+                {
+                    "name": "Checkpoint 1: Reflection, Commitment, Inspired Action ",
+                    "due_date": null
+                },
+                {
+                    "name": "Checkpoint 2: Reflection, Commitment, Inspired Action",
+                    "due_date": null
+                }
+            ]
+        },
+        {
+            "course_name": "UNT Honors College",
+            "course_id": 90820000000028612,
+            "assignments": [
+                {
+                    "name": "Final Orientation Quiz",
+                    "due_date": null
+                },
+                {
+                    "name": "Orientation Academic Quiz",
+                    "due_date": null
+                },
+                {
+                    "name": "Fall 2023 Sticker Design Contest Submission",
+                    "due_date": "2023-11-07T05:59:59Z"
+                },
+                {
+                    "name": "Contract Proposal Submission (Spring 2022)",
+                    "due_date": "2022-02-10T05:59:59Z"
+                },
+                {
+                    "name": "Contract Proposal Submission (Fall 2021)",
+                    "due_date": null
+                },
+                {
+                    "name": "Contest: Personal Statement Prompts for 2022 Honors College Application",
+                    "due_date": "2021-09-11T04:59:59Z"
+                },
+                {
+                    "name": "Contest: Resume Example ",
+                    "due_date": "2021-09-11T04:59:59Z"
+                }
+            ]
+        }
+    ]
+}
