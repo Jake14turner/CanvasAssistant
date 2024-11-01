@@ -6,6 +6,9 @@ from user import initializeUserInfoJSON, checkForUserKey
 
 
 
+
+
+
 #this is the UI component's responsibility: we need to check if the token is saved or not. If the bool variable to check is not present create it and set it to false until the token is saved.
 if 'token_saved' not in st.session_state:
     st.session_state.token_saved = False
@@ -24,14 +27,26 @@ def homePageView():
     username = st.session_state.username
 
     checkForUserKey(username)
-    
+
     #connection point between UI and User. We call user function to return a json file for the UI to display
     if st.session_state.hasKey == True:
-        data = initializeUserInfoJSON(username)
+        
 
+        if "view" not in st.session_state:
+            st.session_state.view = "Calender"
 
+        col1, col2 = st.columns(2)
+        with col1:
+            if st.button("Calendar"):
+                st.session_state.view = "Calendar"
+        with col2:
+            if st.button("Custom Schedule"):
+                st.session_state.view = "Custom Schedule"
 
-        html_code = f"""
+        if st.session_state.view == "Calendar":
+            #this is the user components responsiblity: to get all of the users information from canvas and store it into json form in "data"
+            data = initializeUserInfoJSON(username)
+            calendarHTML = f"""
         <style>
         :root {{
             --primary-clr: #b38add;
@@ -291,6 +306,8 @@ def homePageView():
                 </div>
             </div>
             </div>
+
+    
             <script src="script.js"></script>
         </body>
         </html> 
@@ -447,7 +464,6 @@ def homePageView():
 
         //this will get the json data from the backend and put it into data
         const data = {json.dumps(data)};
-
             
 
         //populate the array
@@ -458,6 +474,8 @@ def homePageView():
                     assignmentsArray.push(individualAssignment);
                 }});
             }});
+
+
 
         /////////////////     array of assignments now exists as "assignmentsArray"      ////////////
         //now you just need to loop through the assignments array, sort them by date, and then display them on the calender.
@@ -475,7 +493,15 @@ def homePageView():
         </script>
         
         """
-        components.html(html_code, height=840, width=700)          
+
+            components.html(calendarHTML, height=840, width=700)
+        elif st.session_state.view == "Custom Schedule":
+            st.text("In order to get the most ")
+            
+
+
+        
+        #          
 
     
 
